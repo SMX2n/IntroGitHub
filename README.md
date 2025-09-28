@@ -1,1 +1,2 @@
-# IntroGitHub
+# Introducció a git i GitHub
+
