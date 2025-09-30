@@ -62,11 +62,20 @@ Existeixen alternatives com GitLab o Bitbucket, però GitHub és la més popular
 
 Per a crear un compte a GitHub, cal anar a la pàgina principal de [GitHub](https://github.com) i clicar a [Sign up](https://github.com/signup).
 
-Cal omplir les dades, on primer de tot, cal indicar un correu electrònic, recordeu que és **obligatori** usar el correu electrònic de l'escola. A continuació, cal indicar una contrasenya segura, **apunteu-la en un lloc segur o useu un gestor de contrasenyes**. Després, cal indicar un nom d'usuari,useu sempre noms identificatius i eviteu noms suposadament graciosos o de mal gust. Finalment, cal indicar si voleu rebre informació de GitHub i clicar a "Create account".
+Cal omplir les dades, on primer de tot, cal indicar un correu electrònic, com dona problemes si seleccioneu el correu d'escola, useu un correu personal, un cop creat el compte, ja el canviarem. A continuació, cal indicar una contrasenya segura, **apunteu-la en un lloc segur o useu un gestor de contrasenyes**. Després, cal indicar un nom d'usuari,useu sempre noms identificatius i eviteu noms suposadament graciosos o de mal gust. Finalment, cal indicar si voleu rebre informació de GitHub i clicar a "Create account".
 
 ![Sign up](images/signup.png)
 
 Un cop creat el compte, cal verificar el correu electrònic. Per a això, cal anar al correu electrònic indicat i clicar a l'enllaç de verificació que GitHub ha enviat.
+
+Un cop ja tinguem el compte creat, entrem a la pàgina del nostre perfil i anem a "Settings"
+![Settings](images/settings.png)
+
+Allà anem a "Emails" i afegim el correu electrònic de l'escola a l'opció "Add email address", i el marquem com a correu electrònic principal (Primary email address). D'aquesta manera, podrem rebre notificacions de GitHub a l'escola. Igual que quan vam crear el compte, s'enviarà un coreu de verificació al correu electrònic afegit, cal clicar a l'enllaç de verificació per a completar el procés. Al final del procés, hem de tenir el dos correus com verificats.
+![Emails](images/emails.png)
+
+Ara anem a l'opció "Primary email address" i seleccionem el correu electrònic de l'escola com a correu electrònic principal. D'aquesta manera, les notificacions de GitHub s'enviaran al correu electrònic de l'escola. D'aquesta manera, quan acabeu la vostra etapa a l'escola, podreu canviar el correu electrònic principal per un altre correu electrònic personal i no perdreu l'accés al compte de GitHub.
+![Primary email address](images/primary-email.png)
 
 ### Primeres passes a GitHub: repositori de perfil
 
@@ -104,3 +113,4 @@ Un cop guardats els canvis, el fitxer es mostra amb els canvis realitzats. A mé
 
 Posteriorment, veurem com editar fitxers localment i pujar els canvis a GitHub mitjançant Git, però ara, per a començar, és més senzill editar els fitxers directament a la interfície web de GitHub.
 
+En aquest [article](https://laxmena.medium.com/creating-a-github-profile-readme-for-graduate-students-f51c2ef2f651) a Medium teniu una molt bona guia per crear el vostre perfil d'estudiant.
